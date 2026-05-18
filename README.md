@@ -7,7 +7,7 @@
 **Tech Week 2026 | Tuesday 19 May 2026**
 
 *16 hands-on Copilot activities*
-
+https://copilot.microsoft.com 
 ---
 
 ## Microsoft Copilot App Overview
