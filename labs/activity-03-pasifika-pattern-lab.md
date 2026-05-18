@@ -40,7 +40,9 @@ Create a digital pattern inspired by kowhaiwhai designs. Use only red and cream.
 
 Share it via email by clicking the Share button in Copilot, selecting email, and entering the student or whānau email address.
 
-![Screenshot](../media/image6.png)
+![Screenshot](../media/image8.png)
+
+![Screenshot](../media/image9.png)
 
 ## Learning outcome
 

@@ -37,17 +37,17 @@ Write one complete HTML file for a fun personal website about basketball for a s
 Write one complete HTML file for a fun personal website about rugby for a student named Leilani. Make it colourful, friendly, and mobile-friendly using only HTML, CSS, and JavaScript in a single file. Include a big hero heading with my name and topic, a short welcome paragraph, a section called "Three things I love" with 3 cards about rugby, family, and music, a section called "About me" with one short paragraph, a button that changes the page theme colours, a button that shows a random fun fact about rugby, a small counter button that says "People who visited my page" and increases the number when clicked, and a footer that says "Made by Leilani at Tech Week 2026". Use a Pacific-inspired colour palette with rounded cards and big buttons. Give me the full code in one block, ready to save as a single .html file.
 ```
 
-![Screenshot](../media/image12.png)
+![Screenshot](../media/image19.png)
 
-![Screenshot](../media/image13.png)
+![Screenshot](../media/image20.png)
 
-![Screenshot](../media/image14.png)
+![Screenshot](../media/image21.png)
 
 ## Email it to yourself or your whanau for showing what you've accomplished
 
 Share it via email by clicking the Share button in Copilot, selecting email, and entering the student or whānau email address.
 
-![Screenshot](../media/image4.png)
+![Screenshot](../media/image22.png)
 
 ## Learning outcome
 

@@ -40,7 +40,9 @@ You are a detective. Here are 5 clues about a missing lunchbox: 1. It disappeare
 
 Share it via email by clicking the Share button in Copilot, selecting email, and entering the student or whānau email address.
 
-![Screenshot](../media/image7.png)
+![Screenshot](../media/image10.png)
+
+![Screenshot](../media/image11.png)
 
 ## Learning outcome
 

@@ -20,7 +20,7 @@
 5. Think about when using Copilot like this helps you learn and when it would become copying instead of learning.
 ## Sample Math Problem
 
-![](../media/image11.jpeg)
+![](../media/image18.jpeg)
 
 ## Prompt template
 
@@ -31,8 +31,6 @@
 ## Email it to yourself or your whanau for showing what you've accomplished
 
 Share it via email by clicking the Share button in Copilot, selecting email, and entering the student or whānau email address.
-
-![Screenshot](../media/image4.png)
 
 ## Learning outcome
 

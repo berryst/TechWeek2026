@@ -40,7 +40,9 @@ Tell me a knock-knock joke about cats and Auckland traffic for a 7-year-old.
 
 Share it via email by clicking the Share button in Copilot, selecting email, and entering the student or whānau email address.
 
-![Screenshot](../media/image9.png)
+![Screenshot](../media/image14.png)
+
+![Screenshot](../media/image15.png)
 
 ## Learning outcome
 

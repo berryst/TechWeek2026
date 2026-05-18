@@ -1,4 +1,4 @@
-# Activity 12: 🎮 Make a Mini Game
+# Activity 12: 🎮 Make a Mini Quiz Game
 
 [← Back to Activities](../README.md)
 
@@ -47,6 +47,10 @@ Build a simple browser game as one HTML file with inline CSS and JavaScript. Mak
 ## Email it to yourself or your whanau for showing what you've accomplished
 
 Share it via email by clicking the Share button in Copilot, selecting email, and entering the student or whānau email address.
+
+![Screenshot](../media/image23.png)
+
+![Screenshot](../media/image24.png)
 
 ## Learning outcome
 

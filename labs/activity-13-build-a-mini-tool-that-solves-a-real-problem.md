@@ -41,7 +41,9 @@ I want to build a simple tool that solves this problem in my life: I want to tra
 
 Share it via email by clicking the Share button in Copilot, selecting email, and entering the student or whānau email address.
 
-![Screenshot](../media/image4.png)
+![Screenshot](../media/image25.png)
+
+![Screenshot](../media/image26.png)
 
 ## Learning outcome
 

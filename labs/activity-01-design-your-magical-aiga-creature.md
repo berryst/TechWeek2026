@@ -42,6 +42,8 @@ Share it via email by clicking the Share button in Copilot, selecting email, and
 
 ![Screenshot](../media/image4.png)
 
+![Screenshot](../media/image5.png)
+
 ## Learning outcome
 
 AI follows your instructions exactly. Better words = better picture.

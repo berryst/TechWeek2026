@@ -39,7 +39,9 @@ Write a 6-sentence adventure story for kids about a hero named Sione. The heroâ€
 
 Share it via email by clicking the Share button in Copilot, selecting email, and entering the student or whÄnau email address.
 
-![Screenshot](../media/image5.png)
+![Screenshot](../media/image6.png)
+
+![Screenshot](../media/image7.png)
 
 ## Learning outcome
 

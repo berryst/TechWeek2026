@@ -39,7 +39,9 @@ I’m 12 years old. Help me write a kind letter from my future 22-year-old self 
 
 Share it via email by clicking the Share button in Copilot, selecting email, and entering the student or whānau email address.
 
-![Screenshot](../media/image10.png)
+![Screenshot](../media/image16.png)
+
+![Screenshot](../media/image17.png)
 
 ## Learning outcome
 

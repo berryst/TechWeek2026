@@ -39,7 +39,9 @@ A friendly cartoon illustration of South Auckland in 2126:Aria wakes up to a sof
 
 Share it via email by clicking the Share button in Copilot, selecting email, and entering the student or whānau email address.
 
-![Screenshot](../media/image8.png)
+![Screenshot](../media/image12.jpeg)
+
+![Screenshot](../media/image13.png)
 
 ## Learning outcome
 
