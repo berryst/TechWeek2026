@@ -112,7 +112,7 @@ Each of the next sixteen pages covers one activity in detail. Click any activity
 - [🔍 Copilot Vision Adventure](labs/activity-09-copilot-vision-adventure.md)
 - [📷 Copilot Vision Homework Detective](labs/activity-10-copilot-vision-homework-detective.md)
 - [💻 Build My First Webpage](labs/activity-11-build-my-first-webpage.md)
-- [🎮 Make a Mini Quiz Game](labs/activity-12-make-a-mini-quiz-game.md)
+- [🎮 Make a Mini Game](labs/activity-12-make-a-mini-quiz-game.md)
 - [🛠️ Build a Mini Tool That Solves a Real Problem](labs/activity-13-build-a-mini-tool-that-solves-a-real-problem.md)
 - [🏪 Design My Aiga Business](labs/activity-14-design-my-aiga-business.md)
 - [🎙️ Sports Commentator Mode](labs/activity-15-sports-commentator-mode.md)

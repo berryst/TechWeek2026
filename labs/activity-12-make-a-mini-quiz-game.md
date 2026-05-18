@@ -1,4 +1,4 @@
-# Activity 12: 🎮 Make a Mini Quiz Game
+# Activity 12: 🎮 Make a Mini Game
 
 [← Back to Activities](../README.md)
 
